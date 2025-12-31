@@ -42,4 +42,4 @@ All output is written to the console only.
 
 Run the main class:
 
-com.company.batchprocessor.runner.Main
+com.deccan.batchprocessor.runner.Main
