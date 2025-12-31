@@ -1,0 +1,7 @@
+version: "3.8"
+
+services:
+  app:
+    image: java-batch-event-processor
+    container_name: java-batch-event-processor
+    command: mvn test

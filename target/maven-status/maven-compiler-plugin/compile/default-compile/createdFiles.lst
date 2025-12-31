@@ -1,0 +1,7 @@
+com\deccan\batchprocessor\validator\EventValidator.class
+com\deccan\batchprocessor\parser\EventParser.class
+com\deccan\batchprocessor\model\Event.class
+com\deccan\batchprocessor\aggregator\EventAggregator.class
+com\deccan\batchprocessor\model\EventType.class
+com\deccan\batchprocessor\reader\EventFileReader.class
+com\deccan\batchprocessor\runner\Main.class
